@@ -1,0 +1,146 @@
+خروجی بهترین RMSE ها (به ترتیب از بهترین تا بدترین):
+
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.2422
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4025
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4371
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4212
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.3215
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4377
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4731
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4093
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4748
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4949
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4418
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.5202
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4769
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.5397
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4040
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4380
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.6194
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.5516
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4397
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.5010
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.4922
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.5720
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.7421
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.7866
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.9183
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.8657
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.9402
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.9656
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.9008
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.2350
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.7577
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.3745
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.2796
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.2410
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.2890
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.4584
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.4189
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.2350
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 0.8266
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.2642
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.8489
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.3047
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.7564
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.6716
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 2.3011
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 2.0701
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 1.4602
+Output: Compressive Strength (28-day)(Mpa) - Best RMSE: 2.6676
+Output: SLUMP(cm) - Best RMSE: 4.3674
+Output: SLUMP(cm) - Best RMSE: 5.2087
+Output: SLUMP(cm) - Best RMSE: 5.3290
+Output: SLUMP(cm) - Best RMSE: 5.0203
+Output: SLUMP(cm) - Best RMSE: 4.8753
+Output: SLUMP(cm) - Best RMSE: 5.9893
+Output: SLUMP(cm) - Best RMSE: 5.9498
+Output: SLUMP(cm) - Best RMSE: 4.1423
+Output: SLUMP(cm) - Best RMSE: 5.9989
+Output: SLUMP(cm) - Best RMSE: 5.9889
+Output: SLUMP(cm) - Best RMSE: 6.5758
+Output: SLUMP(cm) - Best RMSE: 5.7175
+Output: SLUMP(cm) - Best RMSE: 6.0317
+Output: SLUMP(cm) - Best RMSE: 5.9381
+Output: SLUMP(cm) - Best RMSE: 6.8303
+Output: SLUMP(cm) - Best RMSE: 6.7874
+Output: SLUMP(cm) - Best RMSE: 6.8622
+Output: SLUMP(cm) - Best RMSE: 5.7080
+Output: SLUMP(cm) - Best RMSE: 6.8734
+Output: SLUMP(cm) - Best RMSE: 6.4221
+Output: SLUMP(cm) - Best RMSE: 6.4871
+Output: SLUMP(cm) - Best RMSE: 7.1753
+Output: SLUMP(cm) - Best RMSE: 6.4215
+Output: SLUMP(cm) - Best RMSE: 5.5919
+Output: SLUMP(cm) - Best RMSE: 6.6894
+Output: SLUMP(cm) - Best RMSE: 7.1569
+Output: SLUMP(cm) - Best RMSE: 7.0331
+Output: SLUMP(cm) - Best RMSE: 6.6024
+Output: SLUMP(cm) - Best RMSE: 7.4032
+Output: SLUMP(cm) - Best RMSE: 6.5005
+Output: SLUMP(cm) - Best RMSE: 7.4371
+Output: SLUMP(cm) - Best RMSE: 7.4841
+Output: SLUMP(cm) - Best RMSE: 5.4663
+Output: SLUMP(cm) - Best RMSE: 6.0986
+Output: SLUMP(cm) - Best RMSE: 7.5218
+Output: SLUMP(cm) - Best RMSE: 7.4385
+Output: SLUMP(cm) - Best RMSE: 6.8887
+Output: SLUMP(cm) - Best RMSE: 7.3842
+Output: SLUMP(cm) - Best RMSE: 7.2835
+Output: SLUMP(cm) - Best RMSE: 6.2732
+Output: SLUMP(cm) - Best RMSE: 7.8448
+Output: SLUMP(cm) - Best RMSE: 7.5833
+Output: SLUMP(cm) - Best RMSE: 6.9387
+Output: SLUMP(cm) - Best RMSE: 8.1341
+Output: SLUMP(cm) - Best RMSE: 8.7943
+Output: SLUMP(cm) - Best RMSE: 6.3131
+Output: FLOW(cm) - Best RMSE: 8.2906
+Output: SLUMP(cm) - Best RMSE: 8.8501
+Output: SLUMP(cm) - Best RMSE: 7.9552
+Output: FLOW(cm) - Best RMSE: 9.7969
+Output: FLOW(cm) - Best RMSE: 9.4629
+Output: FLOW(cm) - Best RMSE: 7.2222
+Output: FLOW(cm) - Best RMSE: 8.9920
+Output: FLOW(cm) - Best RMSE: 9.1090
+Output: FLOW(cm) - Best RMSE: 10.2900
+Output: FLOW(cm) - Best RMSE: 9.3981
+Output: FLOW(cm) - Best RMSE: 9.7846
+Output: FLOW(cm) - Best RMSE: 10.0350
+Output: FLOW(cm) - Best RMSE: 10.1262
+Output: FLOW(cm) - Best RMSE: 9.9004
+Output: FLOW(cm) - Best RMSE: 11.4026
+Output: FLOW(cm) - Best RMSE: 8.2897
+Output: FLOW(cm) - Best RMSE: 12.0321
+Output: FLOW(cm) - Best RMSE: 11.6130
+Output: FLOW(cm) - Best RMSE: 11.8408
+Output: FLOW(cm) - Best RMSE: 11.7392
+Output: FLOW(cm) - Best RMSE: 10.9184
+Output: FLOW(cm) - Best RMSE: 11.9074
+Output: FLOW(cm) - Best RMSE: 10.5517
+Output: FLOW(cm) - Best RMSE: 12.0529
+Output: FLOW(cm) - Best RMSE: 11.7911
+Output: FLOW(cm) - Best RMSE: 12.9175
+Output: FLOW(cm) - Best RMSE: 12.9950
+Output: FLOW(cm) - Best RMSE: 12.9658
+Output: FLOW(cm) - Best RMSE: 11.9736
+Output: FLOW(cm) - Best RMSE: 11.6032
+Output: FLOW(cm) - Best RMSE: 11.7784
+Output: FLOW(cm) - Best RMSE: 12.5933
+Output: FLOW(cm) - Best RMSE: 11.7985
+Output: FLOW(cm) - Best RMSE: 13.3955
+Output: FLOW(cm) - Best RMSE: 13.5095
+Output: FLOW(cm) - Best RMSE: 12.2070
+Output: FLOW(cm) - Best RMSE: 13.0331
+Output: FLOW(cm) - Best RMSE: 13.9065
+Output: FLOW(cm) - Best RMSE: 11.9282
+Output: FLOW(cm) - Best RMSE: 9.5191
+Output: FLOW(cm) - Best RMSE: 13.9249
+Output: FLOW(cm) - Best RMSE: 11.3744
+Output: FLOW(cm) - Best RMSE: 14.2235
+Output: FLOW(cm) - Best RMSE: 11.7604
+Output: FLOW(cm) - Best RMSE: 11.1744
+Output: FLOW(cm) - Best RMSE: 11.9471
+Output: FLOW(cm) - Best RMSE: 15.4190
+Output: FLOW(cm) - Best RMSE: 15.0785
+Output: FLOW(cm) - Best RMSE: 17.1518
+Output: FLOW(cm) - Best RMSE: 16.9564
